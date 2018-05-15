@@ -1,7 +1,7 @@
 [submodule "evmjit"]
 	path = evmjit
-	url = https://github.com/ethereum/evmjit
-	branch = develop
+	url = https://github.com/caballa/evmjit
+	branch = master
 [submodule "test/tests"]
 	path = test/jsontests
 	url = https://github.com/ethereum/tests.git
